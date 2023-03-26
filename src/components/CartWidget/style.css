@@ -1,0 +1,14 @@
+.countCartContent {
+    width: 100%;
+}
+
+.cartImg {
+    width: 25px;
+    transition: all 1s;
+}
+
+
+.cartCounter {
+
+    margin-left: 8px;
+}
