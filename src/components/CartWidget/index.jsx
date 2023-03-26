@@ -10,7 +10,7 @@ const CartWidget = () => {
     return (
         <div className='countCartContent'>
             <Link to='/cart'>
-                <img src='assets/cart.svg' className="cartImg" alt="cartIcon" />
+                <img src='/assets/cart.svg' className="cartImg" alt="cartIcon" />
             </Link>
             <span className='cartCounter'>{countCart()}</span>
         </div>
